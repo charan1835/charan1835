@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%20there,%20I'm%20Charan%20(Spartan)%20👋&fontSize=40" />
 </div>
 
-<h3 align="center">🚀 Self-Taught Full-Stack Developer | 🧠 Machine Learning Explorer | ⚡ Builder of AI-powered web apps</h3>
+<h3 align="center">Full-Stack Developer | 🧠 Machine Learning Explorer | ⚡ Builder of AI-powered web apps</h3>
 
 <p align="center">
   <i>I started coding with <b>zero background</b> and turned curiosity into real products. Now I spend most of my time building <b>clean web apps, experimenting with AI, and learning how systems actually work under the hood.</b></i>
