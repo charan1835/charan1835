@@ -7,7 +7,9 @@
 <p align="center">
   <i>I started coding with <b>zero background</b> and turned curiosity into real products. Now I spend most of my time building <b>clean web apps, experimenting with AI, and learning how systems actually work under the hood.</b></i>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charan1835&label=Profile%20views&color=0e75b6&style=flat" alt="charan1835" />
+</p>
 ---
 
 ## 🧠 What I'm About
