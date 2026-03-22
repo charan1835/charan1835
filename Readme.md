@@ -1,15 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%20there,%20I'm%20Charan%20(Spartan)%20👋&fontSize=40" />
+    <img
+        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey%20there,%20I'm%20Charan%20👋&fontSize=40" />
 </div>
 
 <h3 align="center">Full-Stack Developer | 🧠 Machine Learning Explorer | ⚡ Builder of AI-powered web apps</h3>
 
 <p align="center">
-  <i>I started coding with <b>zero background</b> and turned curiosity into real products. Now I spend most of my time building <b>clean web apps, experimenting with AI, and learning how systems actually work under the hood.</b></i>
+    <i>I started coding with <b>zero background</b> and turned curiosity into real products. Now I spend most of my time
+        building <b>clean web apps, experimenting with AI, and learning how systems actually work under the
+            hood.</b></i>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charan1835&label=Profile%20views&color=0e75b6&style=flat" alt="charan1835" />
+    <img src="https://komarev.com/ghpvc/?username=charan1835&label=Profile%20views&color=0e75b6&style=flat"
+        alt="charan1835" />
 </p>
+
+---
+
+## ⚡ Quick Snapshot (Standout)
+
+<div align="center">
+
+**I build end-to-end products** — UI → APIs → DB → deployment — and I love adding **AI features** that feel practical.
+
+</div>
+
+- 🚀 **Currently building:** AI-powered web apps with Next.js + modern auth + scalable backends  
+- 🧠 **Learning focus:** ML workflows, NLP fundamentals, and system design  
+- ✅ **Strength:** taking an idea → shipping a usable product (clean UX + solid backend)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🏆 Golden Fork</h3>
+      <p>
+        A product-focused web app with a clean UI and solid full-stack implementation.
+      </p>
+      <p><b>Highlights:</b> user-first UX • scalable structure • deploy-ready</p>
+      <p>
+        <a href="https://github.com/charan1835/golden-fork">Repo</a>
+      </p>
+    </td>
+
+    <td width="33%">
+      <h3>💭 Sentimental</h3>
+      <p>
+        An AI/ML-driven project exploring sentiment and text understanding.
+      </p>
+      <p><b>Highlights:</b> NLP concepts • experimentation mindset • practical outputs</p>
+      <p>
+        <a href="https://github.com/charan1835/sentimental">Repo</a>
+      </p>
+    </td>
+
+    <td width="33%">
+      <h3>🔁 ReturnFeedbackLoopAutomation</h3>
+      <p>
+        An automation-focused build aimed at streamlining workflows and closing feedback loops.
+      </p>
+      <p><b>Highlights:</b> automation • productivity • system thinking</p>
+      <p>
+        <a href="https://github.com/charan1835/returnfeedbackloopautomation">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🧠 What I'm About
@@ -79,30 +140,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/charan1835">
-    <img src="https://github-readme-stats.vercel.app/api?username=charan1835&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/charan1835">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan1835&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chimbili-charan-sai-a9a623291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://charansai-seven.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=World&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/charan1835"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/chimbili-charan-sai-a9a623291/"><img
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn" /></a>
+    <a href="https://charansai-seven.vercel.app/"><img
+            src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=World&logoColor=white"
+            alt="Portfolio" /></a>
+    <a href="https://github.com/charan1835"><img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt="GitHub" /></a>
 </p>
 
 <div align="center">
-  <br/>
-  <i>⭐ I enjoy building, learning, and sharing along the way. ⭐</i>
+    <br />
+    <i>⭐ I enjoy building, learning, and sharing along the way. ⭐</i>
 </div>
