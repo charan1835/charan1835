@@ -43,7 +43,7 @@
       </p>
       <p><b>Highlights:</b> user-first UX • scalable structure • deploy-ready</p>
       <p>
-        <a href="https://github.com/charan1835/golden-fork">Repo</a>
+        <a href="https://github.com/charan1835/TheGoldenFork">Repo</a>
       </p>
     </td>
 
@@ -54,7 +54,7 @@
       </p>
       <p><b>Highlights:</b> NLP concepts • experimentation mindset • practical outputs</p>
       <p>
-        <a href="https://github.com/charan1835/sentimental">Repo</a>
+        <a href="https://github.com/charan1835/Sentiment-Analysis-App">Repo</a>
       </p>
     </td>
 
@@ -65,7 +65,7 @@
       </p>
       <p><b>Highlights:</b> automation • productivity • system thinking</p>
       <p>
-        <a href="https://github.com/charan1835/returnfeedbackloopautomation">Repo</a>
+        <a href="https://github.com/charan1835/Return_automation">Repo</a>
       </p>
     </td>
   </tr>
